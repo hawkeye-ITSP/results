@@ -1,0 +1,17 @@
+Model 1:
+
+beam search result: {'BLEU-4': 66.70670916100342, 'EM': 3.8376891334250347, 'Edit': 62.05102059563836}
+
+
+Model 2:
+
+beam search result: {'BLEU-4': 66.51662446771506, 'EM': 4.253357914142744, 'Edit': 61.84083762233974}
+
+
+Model 3:
+
+beam search result: {'BLEU-4': 68.82525129004878, 'EM': 4.965612104539202, 'Edit': 64.24660541820298}
+
+
+
+All models were trained for ~20 epochs.
